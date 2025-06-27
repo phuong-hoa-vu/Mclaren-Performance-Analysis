@@ -44,7 +44,7 @@ This Power BI dashboard project analyzes the McLaren Formula 1 team's performanc
 ## 📂 Data Sources
 
 - [Kaggle F1 World Championship Dataset (1950–2020)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
-- 🧾 Custom Enhancements: Added additional drivers and circuit images to enrich visual comparisons and enhance storytelling within the dashboard.
+- 🧾 Custom Enhancements: Added additional driver details, different driver eras and circuit images to enrich visual comparisons and enhance storytelling within the dashboard.
 
 ---
 
