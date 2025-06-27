@@ -54,12 +54,3 @@ This Power BI dashboard project analyzes the McLaren Formula 1 team's performanc
 - Monza was the most successful circuit for podium finishes.
 
 ---
-
-## 💡 Learnings & Reflections
-
-- Learned how to write and apply DAX measures to create custom KPIs and comparisons across drivers and seasons.
-- Gained confidence using different chart types to present insights clearly and highlight key differences in performance.
-- Practiced turning raw race data into a meaningful story by combining stats, visuals, and filters in a structured layout.
-- Discovered new ways to use slicers, tooltips, and formatting to improve how users interact with the report.
-- Improved how I organize Power BI pages — finding the right balance between showing enough detail and keeping things easy to understand.
----
