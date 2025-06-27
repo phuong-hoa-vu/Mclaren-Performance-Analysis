@@ -7,7 +7,7 @@ This Power BI dashboard project analyzes the McLaren Formula 1 team's performanc
 ### 1️⃣ Performance Over the Decade
 ![image](https://github.com/user-attachments/assets/551d1ebb-3211-414b-a86d-d2886a47dbb4)
 
-- 🏆 **Best Season**: Highlights McLaren’s strongest season — 2024 — based on podium rate and overall constructor ranking.
+- 🏆 **Best Season**: Highlights McLaren’s strongest season(2024) based on podium rate and overall constructor ranking.
 - 🏁 **Key Stats**:
   - Total Race Wins: `7`
   - Total Podiums: `112`
