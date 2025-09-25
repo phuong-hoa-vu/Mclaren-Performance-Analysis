@@ -30,8 +30,15 @@ This Power BI dashboard project analyzes the McLaren Formula 1 team's performanc
   - Avgerage Finishing Position
   - Percentage of races finishing in the top 10
 
+---
+## Key Takeaways
 
+- McLaren’s strongest season was 2024, showing a clear performance comeback with their highest podium rate and improved team ranking.
+- Monza stood out as the most successful circuit, contributing the highest number of podium finishes over the decade.
+- Era-based driver comparisons revealed close performance gaps, with some drivers outperforming others on specific circuits.
+- Circuit performance analysis helped highlight track-specific strengths that could guide future strategy or development focus.
 
+---
 ## Tools & Skills
 
 - **Power BI Desktop**
@@ -48,11 +55,4 @@ This Power BI dashboard project analyzes the McLaren Formula 1 team's performanc
 
 ---
 
-## Key Takeaways
 
-- McLaren’s strongest season was 2024, showing a clear performance comeback with their highest podium rate and improved team ranking.
-- Monza stood out as the most successful circuit, contributing the highest number of podium finishes over the decade.
-- Era-based driver comparisons revealed close performance gaps, with some drivers outperforming others on specific circuits.
-- Circuit performance analysis helped highlight track-specific strengths that could guide future strategy or development focus.
-
----
